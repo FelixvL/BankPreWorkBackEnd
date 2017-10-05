@@ -4,6 +4,8 @@ public class Bank {
 	long id;
 	String name;
 	String address;
+	String KingsName;
+	
 	public Bank(long id, String name, String address) {
 		this.id = id;
 		this.name = name;
